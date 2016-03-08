@@ -1,0 +1,39 @@
+body {
+	background-image: url(https://webdesignthemes.files.wordpress.com/2014/11/web-design-mrnokhei-albums-243418.jpg)
+}
+
+#Content {
+    width: 962px;
+	min-height: 400px;
+	max-height: 1080;
+    background-color: #dcdcdc;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+h1 {
+	font-family: Comic Sans MS, cursive, sans-serif;
+	text-align: center;
+}
+
+#Video {
+	height: 490px;
+	width: 620px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form {
+	width: 235;
+	height: 21;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Logo {
+	height: 100px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+}
